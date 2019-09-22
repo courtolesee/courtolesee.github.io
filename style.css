@@ -16,40 +16,40 @@ h1 {
 }
 .subheader2 {
 	color: grey;
-    text-align: center;
-    font-family: "Courier New";
-    font-size: 12px;
-    margin-top: 2px;
-    margin-bottom: 0px;
+    	text-align: center;
+    	font-family: "Courier New";
+    	font-size: 12px;
+    	margin-top: 2px;
+    	margin-bottom: 0px;
 }
 .experience {
 	text-align: left;
-    font-family: "Courier New";
-    font-size: 18px;
-    margin-top: 12px;
-    background-color: HoneyDew;
+    	font-family: "Courier New";
+   	font-size: 18px;
+    	margin-top: 12px;
+    	background-color: HoneyDew;
 }
 .education {
 	color: black;
-    text-align: left;
-    font-family: "Courier New";
-    font-size: 18px;
-    margin-top: 12px;
-    background-color: CornSilk;
+    	text-align: left;
+    	font-family: "Courier New";
+    	font-size: 18px;
+    	margin-top: 12px;
+    	background-color: CornSilk;
 }
 .skills {
 	color: black;
-    text-align: left;
-    font-family: "Courier New";
-    font-size: 18px;
-    margin-top: 12px;
-    background-color: HoneyDew;
+    	text-align: left;
+   	font-family: "Courier New";
+    	font-size: 18px;
+    	margin-top: 12px;
+    	background-color: HoneyDew;
 }
 .certifications {
 	color: black;
-    text-align: left;
-    font-family: "Courier New";
-    font-size: 18px;
-    margin-top: 12px;
-    background-color: CornSilk;
+    	text-align: left;
+    	font-family: "Courier New";
+    	font-size: 18px;
+    	margin-top: 12px;
+    	background-color: CornSilk;
 }
