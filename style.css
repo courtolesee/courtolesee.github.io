@@ -30,7 +30,8 @@ h1 {
     	background-color: HoneyDew;
 }
 .birchwooddiv {
-	background-color: AliceBlue;
+	border: dotted
+	border-color: AliceBlue;
 }
 .education {
 	color: black;
