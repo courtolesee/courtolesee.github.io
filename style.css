@@ -25,9 +25,9 @@ h1 {
 }
 .experience {
 	text-align: left;
-    	font-family: "Courier New";
+    	font-family: "Arial";
    	font-size: 20px;
-	font-style: bold;
+	font-weight: bold;
     	margin-top: 18px;
     	border-style: dotted;
 	border-color: DarkSeaGreen;
@@ -36,47 +36,48 @@ h1 {
 	background-color: HoneyDew;
 	margin-top: 2px;
     	margin-bottom: 0px;
-	font-family: "Courier New";
+	font-family: "Arial";
 	text-size: 18px;
 }
 .cdbdiv {
 	margin-top: 2px;
     	margin-bottom: 0px;
-	font-family: "Courier New";
+	font-family: "Arial";
 	text-size: 18px;
 }
 .swcddiv {
 	background-color: HoneyDew;
 	margin-top: 2px;
     	margin-bottom: 0px;
-	font-family: "Courier New";
+	font-family: "Arial";
 	text-size: 18px;
 }
 .surlydiv {
 	margin-top: 2px;
     	margin-bottom: 0px;
-	font-family: "Courier New";
+	font-family: "Arial";
 	text-size: 18px;
 }
 .pwsdiv {
 	background-color: HoneyDew;
 	margin-top: 2px;
     	margin-bottom: 0px;
-	font-family: "Courier New";
+	font-family: "Arial";
 	text-size: 18px;
 }
 .macdiv {
 	margin-top: 2px;
     	margin-bottom: 0px;
-	font-family: "Courier New";
+	font-family: "Arial";
 	text-size: 18px;
 }
 
 .education {
 	color: black;
     	text-align: left;
-    	font-family: "Courier New";
+    	font-family: "Arial";
     	font-size: 20px;
+	font-weight: bold;
     	margin-top: 12px;
 	border-style: dotted;
     	border-color: CornFlowerBlue;
@@ -84,7 +85,8 @@ h1 {
 .skills {
 	color: black;
     	text-align: left;
-   	font-family: "Courier New";
+   	font-family: "Arial";
+	font-weight: bold;
     	font-size: 20px;
     	margin-top: 12px;
     	border-style: dotted;
@@ -93,7 +95,8 @@ h1 {
 .certifications {
 	color: black;
     	text-align: left;
-    	font-family: "Courier New";
+    	font-family: "Arial";
+	font-weight: bold;
     	font-size: 20px;
     	margin-top: 12px;
 	border-style: dotted;
