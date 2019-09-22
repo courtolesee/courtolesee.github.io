@@ -27,23 +27,23 @@ h1 {
     	font-family: "Courier New";
    	font-size: 20px;
     	margin-top: 18px;
-    	background-color: HoneyDew;
+    	border-style: dotted;
+	border-color: DarkSeaGreen;
 }
 .birchwooddiv {
-	border-style: dotted;
-	border-color: DarkSeaGreen;
+	background-color: HoneyDew;
 }
 .cbddiv {
 }
 .swcddiv {
-	border-style: dotted;
-	border-color: DarkSeaGreen;
+	background-color: HoneyDew;
 }
 .surlydiv {
 }
 .pwsdiv {
-	border-style: dotted;
-	border-color: DarkSeaGreen;
+	background-color: HoneyDew;
+}
+.macdiv {
 }
 
 .education {
