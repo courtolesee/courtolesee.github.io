@@ -25,15 +25,15 @@ h1 {
 .experience {
 	text-align: left;
     	font-family: "Courier New";
-   	font-size: 18px;
-    	margin-top: 12px;
+   	font-size: 20px;
+    	margin-top: 18px;
     	background-color: HoneyDew;
 }
 .education {
 	color: black;
     	text-align: left;
     	font-family: "Courier New";
-    	font-size: 18px;
+    	font-size: 20px;
     	margin-top: 12px;
     	background-color: CornSilk;
 }
@@ -41,7 +41,7 @@ h1 {
 	color: black;
     	text-align: left;
    	font-family: "Courier New";
-    	font-size: 18px;
+    	font-size: 20px;
     	margin-top: 12px;
     	background-color: HoneyDew;
 }
@@ -49,7 +49,7 @@ h1 {
 	color: black;
     	text-align: left;
     	font-family: "Courier New";
-    	font-size: 18px;
+    	font-size: 20px;
     	margin-top: 12px;
     	background-color: CornSilk;
 }
