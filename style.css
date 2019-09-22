@@ -77,7 +77,8 @@ h1 {
     	font-family: "Courier New";
     	font-size: 20px;
     	margin-top: 12px;
-    	background-color: CornSilk;
+	border-style: dotted;
+    	border-color: CornSilk;
 }
 .skills {
 	color: black;
@@ -85,7 +86,8 @@ h1 {
    	font-family: "Courier New";
     	font-size: 20px;
     	margin-top: 12px;
-    	background-color: HoneyDew;
+    	border-style: dotted;
+	border-color: DarkSeaGreen;
 }
 .certifications {
 	color: black;
@@ -93,5 +95,6 @@ h1 {
     	font-family: "Courier New";
     	font-size: 20px;
     	margin-top: 12px;
-    	background-color: CornSilk;
+	border-style: dotted;
+    	border-color: CornSilk;
 }
