@@ -105,6 +105,13 @@ h1 {
     	border-style: dotted;
 	border-color: DarkSeaGreen;
 }
+.skillsdiv {
+	background-color: HoneyDew;
+	margin-top: 2px;
+    	margin-bottom: 0px;
+	text-size: 18px;
+	font-family: "Arial";	
+}
 .certifications {
 	color: black;
     	text-align: left;
