@@ -20,6 +20,14 @@ h1 {
 	margin-top: 0px;
 	margin-bottom: 2px;
 }
+
+a:link{
+	color: LawnGreen;
+}
+a:visited{
+	color: BlueViolet;
+}
+
 .subheader2 {
 	color: grey;
     	text-align: center;
