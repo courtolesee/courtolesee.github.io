@@ -2,7 +2,7 @@ h1 {
   color: black;
   text-align: center;
   font-family: "Courier New";
-  font-size: 40px;
+  font-size: 80px;
   margin-bottom: 2px;
   background-color: DarkSeaGreen
 } 
@@ -26,24 +26,49 @@ h1 {
 	text-align: left;
     	font-family: "Courier New";
    	font-size: 20px;
+	font-style: bold;
     	margin-top: 18px;
     	border-style: dotted;
 	border-color: DarkSeaGreen;
 }
 .birchwooddiv {
 	background-color: HoneyDew;
+	margin-top: 2px;
+    	margin-bottom: 0px;
+	font-family: "Courier New";
+	text-size: 18px;
 }
 .cbddiv {
+	margin-top: 2px;
+    	margin-bottom: 0px;
+	font-family: "Courier New";
+	text-size: 18px;
 }
 .swcddiv {
 	background-color: HoneyDew;
+	margin-top: 2px;
+    	margin-bottom: 0px;
+	font-family: "Courier New";
+	text-size: 18px;
 }
 .surlydiv {
+	margin-top: 2px;
+    	margin-bottom: 0px;
+	font-family: "Courier New";
+	text-size: 18px;
 }
 .pwsdiv {
 	background-color: HoneyDew;
+	margin-top: 2px;
+    	margin-bottom: 0px;
+	font-family: "Courier New";
+	text-size: 18px;
 }
 .macdiv {
+	margin-top: 2px;
+    	margin-bottom: 0px;
+	font-family: "Courier New";
+	text-size: 18px;
 }
 
 .education {
