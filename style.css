@@ -37,33 +37,39 @@ h1 {
 	margin-top: 2px;
     	margin-bottom: 0px;
 	text-size: 18px;
+	font-family: "Arial";
 }
 .cdbdiv {
 	margin-top: 2px;
     	margin-bottom: 0px;
 	text-size: 18px;
+	font-family: "Arial";
 }
 .swcddiv {
 	background-color: HoneyDew;
 	margin-top: 2px;
     	margin-bottom: 0px;
 	text-size: 18px;
+	font-family: "Arial";
 }
 .surlydiv {
 	margin-top: 2px;
     	margin-bottom: 0px;
 	text-size: 18px;
+	font-family: "Arial";
 }
 .pwsdiv {
 	background-color: HoneyDew;
 	margin-top: 2px;
     	margin-bottom: 0px;
 	text-size: 18px;
+	font-family: "Arial";
 }
 .macdiv {
 	margin-top: 2px;
     	margin-bottom: 0px;
 	text-size: 18px;
+	font-family: "Arial";
 }
 
 .education {
@@ -80,12 +86,14 @@ h1 {
 	margin-top: 2px;
     	margin-bottom: 0px;
 	text-size: 18px;
+	font-family: "Arial";
 }
 .undergraddiv {
 	background-color: Azure;
 	margin-top: 2px;
     	margin-bottom: 0px;
 	text-size: 18px;
+	font-family: "Arial";
 }
 .skills {
 	color: black;
